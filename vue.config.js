@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/kafiwz2020/'
+    ? '/Kafiwz2020/'
     : '/'
 }
